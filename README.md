@@ -10,7 +10,7 @@
 LAN Attacks Analysis is a project that focuses on understanding how internal network attacks are detected, categorized, and visualized. The project turns raw security event data into actionable insights that help decision-makers identify attack patterns, peak risk periods, and the most targeted network segments.
 
 ### Project objectives:
-- فخفattack events across the local network environment.  
+- attack events across the local network environment.  
 - total Analyze attack trends by time, severity, protocol, segment, and source.  
 - Identify high-risk and recurring attack patterns.  
 - Support faster incident response through clear visual dashboards.  
